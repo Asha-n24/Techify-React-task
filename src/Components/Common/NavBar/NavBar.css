@@ -1,0 +1,55 @@
+.navstyle{
+    /* box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px !important; */
+    padding:1% 3%;
+    display:flex;
+}
+#navbarTogglerDemo03{
+    width:100%;
+ 
+}
+.floatdiv{
+    float:right !important;
+}
+.logstyle{
+    border: 3px solid #FF9C23;
+    border-radius: 55px;
+    padding: 8px 23px;
+    font-weight: 600;
+    cursor: pointer;
+    color: #FF9C23 !important;
+    font-size: 25px;
+}
+/* .logstyle:hover{
+    background-color: #FF9C23;
+    cursor: pointer;
+    color:white !important;
+} */
+.logstyle a{
+    color: #FF9C23 !important;
+}
+/* .logstyle a:hover{
+    color: white !important;
+} */
+.Navtitlelogo{
+    text-transform: uppercase;
+    font-family: verdana;
+    font-size: 2em;
+    font-weight: 700;
+    color: #FF9C23 !important;;
+    text-shadow: 1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #FF9C23,
+        1px 1px 1px #FF9C23,
+        1px 1px 1px #FF9C23,
+        1px 1px 1px  #FF9C23 !important;
+   
+
+}
